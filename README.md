@@ -1,5 +1,5 @@
 #  Project One for Code Institute | Chefs-Shop <br> <center>- HTML & CSS</center>
-[Click here for live view.](https://codeinstitute.net/) <!-- add link to the website here -->
+[Click here for live view.](https://codeinstitute.net/) <!-- add link to the website picture here -->
 
 Chefs-Shop is a website that I built as part of my training to become a Full Stack Web Developer with [Code Institute](https://codeinstitute.net/). This project allowed me to showcase my skills in both HTML and CSS.
 
@@ -35,6 +35,15 @@ However, my primary objective for building this website is to enhance my skills 
 
 
 ## Target audience
+
+The target audience for Chefs-Shop are those who desire a unique culinary experience in the comfort of their own home. This includes both small and large kitchens that may receive unexpected guests without a chef on hand.
+
+In addition, Chefs-Shop is targeted at aspiring and freelancing chefs who would like to join the team of chefs to provide top-quality services to clients worldwide. Some of the characteristics of Chefs-Shop chefs include but are not limited to:
+
+ 1. Experiment with color and texture.
+ 2. Plan ahead, prepare and organize
+ 3. Choosing the perfect plate
+
 
 
 ### Typography and color scheme
