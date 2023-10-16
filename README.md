@@ -41,10 +41,48 @@ The target audience for Chefs-Shop are those who desire a unique culinary experi
 In addition, Chefs-Shop is targeted at aspiring and freelancing chefs who would like to join the team of chefs to provide top-quality services to clients worldwide. Some of the characteristics of Chefs-Shop chefs include but are not limited to:
 
  1. Experiment with color and texture.
- 2. Plan ahead, prepare and organize
- 3. Choosing the perfect plate
+ 2. Plan ahead, prepare and organize.
+ 3. Choosing the perfect plate.
+ 4. Develop and plan menus and daily specials.
+ 5. Using the right tools for food plating.
+ 6. Getting the best ingredient that matches every recipe.
+ 7. Maintaining the standards for food storage, rotation, quality, and appearance.
+ 8. Ensuring compliance with applicable health codes and regulations.
+
+By carefully considering the needs of our users, I crafted a website that boasts a visually striking design, sure to captivate and entice visitors. This is in a bid to give the impression that this culinary destination will leave a lasting impression and keep users coming back for more.
+
+
+## User Experience
+
+ ### User stories
+
+### <li> First Time Visitors</li>
+
+<li>As a first time user, I am looking for what the site has to offer.</li>
+
+<li>As a first time user, how accessible is the site and its services.</li>
+
+<li>As a first time user, does the content of the site motivate and meet my search goal?</li>
+<li>As a first time user, I would like to contact the site for business enquries.</li>
+
+### <li> Returning Visitors</li>
+
+<li>As a returning user, I want to find a feedback form.</li>
+
+<li>As a returning user, I want to find out about other services and recommendation.</li>
+
+<li>As a returning user, I want to be part of the Chefs team.</li>
+
+### <li> Frequent Visitors</li>
+
+<li>As a frequent user, are there new update to the site such as promotions and additional features.</li>
+
+<li>As a frequent user, is there a physical location and contact address.</li>
+
+
+## Typography and color scheme
 
 
 
-### Typography and color scheme
 
+## Features
