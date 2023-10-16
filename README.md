@@ -10,7 +10,7 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
 ## Table of Content
 <details><summary>Open the Table of Contents here </summary>
 
-About the Project
+[About the project](#about-the-project) 
 
 Target audience
 
@@ -56,28 +56,28 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
  ### User stories
 
-### <li> First Time Visitors</li>
+- ### First Time Visitors
 
-<li>As a first time user, I am looking for what the site has to offer.</li>
+  - As a first time user, I am looking for what the site has to offer.
 
-<li>As a first time user, how accessible is the site and its services.</li>
+  - As a first time user, how accessible is the site and its services.
 
-<li>As a first time user, does the content of the site motivate and meet my search goal?</li>
-<li>As a first time user, I would like to contact the site for business enquries.</li>
+  - As a first time user, does the content of the site motivate and meet my search goal?
+  - As a first time user, I would like to contact the site for business enquries.
 
-### <li> Returning Visitors</li>
+- ### Returning Visitors
 
-<li>As a returning user, I want to find a feedback form.</li>
+  - As a returning user, I want to find a feedback form.
 
-<li>As a returning user, I want to find out about other services and recommendation.</li>
+  - As a returning user, I want to find out about other services and recommendation.
 
-<li>As a returning user, I want to be part of the Chefs team.</li>
+  - As a returning user, I want to be part of the Chefs team.
 
-### <li> Frequent Visitors</li>
+- ### Frequent Visitors
 
-<li>As a frequent user, are there new update to the site such as promotions and additional features.</li>
+  - As a frequent user, are there new update to the site such as promotions and additional features.
 
-<li>As a frequent user, is there a physical location and contact address.</li>
+  - As a frequent user, is there a physical location and contact address.
 
 
 ## Typography and color scheme
