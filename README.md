@@ -133,4 +133,10 @@ By carefully considering the needs of our users, I crafted a website that boasts
     <summary>Image of the Contact Us page </summary> <!-- Add Contact Us page image -->
 
     </details>
- 
+
+  - ### Responsive devices
+    The website has been designed to be responsive and easily accessible on any device. For instance, when viewed on a phone screen, the navigation bar is replaced by a burger icon button, making it easier to navigate. Additionally, the text in some sections has been modified to fit the screen size, ensuring that users get complete information regardless of the device they are using. This approach allows laptop and desktop users to access detailed information while phone users can focus on the main information.
+
+    <!-- Add Responsive image here -->
+
+    
