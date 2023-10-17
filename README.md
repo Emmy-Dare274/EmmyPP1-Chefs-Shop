@@ -119,10 +119,18 @@ By carefully considering the needs of our users, I crafted a website that boasts
     The purpose of the navigation bar and footer is to assist users in navigating the website smoothly and efficiently. The footer also provides links to relevant social media sites, which open in new tabs to ensure a seamless browsing experience.
 
   - ### Gallery page
-    The Gallery page comprises a header, a div that contains images, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
+    The Gallery page comprises a header, different images in the body, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
 
     <details>
     <summary>Image of the Gallery page </summary> <!-- Add Gallery page image -->
 
     </details>
 
+  - ### Contact Us page
+    The Contact Us page comprises a header, along with sections for Name, Last name, Email, and Comment to provide more details on the requested services, followed by a footer. The primary objective of this page is to enable users to send a message to request services and also to locate the physical address of the site on Google Maps.
+
+     <details>
+    <summary>Image of the Contact Us page </summary> <!-- Add Contact Us page image -->
+
+    </details>
+ 
