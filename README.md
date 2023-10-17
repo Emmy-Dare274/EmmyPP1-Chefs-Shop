@@ -1,5 +1,6 @@
 <h1 align="center">Project One for Code Institute | Chefs-Shop <br>- HTML & CSS</h1>
-[Click here for live view.](https://codeinstitute.net/) <!-- add link to the website picture here -->
+
+[Click here to view live page.](https://codeinstitute.net/) <!-- add link to the website picture here -->
 
 Chefs-Shop is a website that I built as part of my training to become a Full Stack Web Developer with [Code Institute](https://codeinstitute.net/). This project allowed me to showcase my skills in both HTML and CSS.
 
