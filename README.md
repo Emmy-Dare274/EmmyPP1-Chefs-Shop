@@ -139,4 +139,8 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
     <!-- Add Responsive image here -->
 
-    
+  - ### Animations
+    To enhance the user experience, the website has minimal animation. However, to make navigation easier, the links in the navigation bar change their background color and padding when the mouse hovers over them while the text goes underlined simultaneously.
+
+  - ### Positioning
+    I have made sure to carefully position the elements on every page, including the Home page, Gallery page, and Contact Us page, to ensure the best possible user experience and accessibility.
