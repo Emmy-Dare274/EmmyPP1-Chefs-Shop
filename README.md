@@ -12,12 +12,15 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
 
 [About the project](#about-the-project) 
 
-Target audience
+[Target audience](#target-audience)
 
-User Experience
+[User Experience](#user-experience)
 
- - User stories
- - Design
+ - [User stories](#user-stories)
+ - [Design](#design)
+
+[Typography and color scheme](#typography-and-color-scheme)
+
 
 Features
 
@@ -79,8 +82,20 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - As a frequent user, is there a physical location and contact address.
 
+ ### Design
+
+ Theme colors were selected from Mycolor Space palettes (see credits) and enhanced with Red-Green-Blue to stimulate creativity.
+
 
 ## Typography and color scheme
+
+- ### Background
+  I added a background color and background image to the webpage to create a 3D effect and to make it appear as though the background is touchable around the heading area. As users will be searching for content such as pictures to showcase culinary events at first glance, I opted for a background that is visually appealing and gives the right impression.
+
+  For consistency, the sticky headings and fixed footer use the same background color as the rest of the page, with a transparent top color for subtle content viewing
+
+- ### Pictures
+  1. #### Homepage
 
 
 
