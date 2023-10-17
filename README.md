@@ -15,7 +15,7 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
 
 [Target audience](#target-audience)
 
-[User Experience](#user-experience)
+[User Experience UX](#user-experience-ux)
 
  - [User stories](#user-stories)
  - [Design](#design)
@@ -56,7 +56,7 @@ In addition, Chefs-Shop is targeted at aspiring and freelancing chefs who would 
 By carefully considering the needs of our users, I crafted a website that boasts a visually striking design, sure to captivate and entice visitors. This is in a bid to give the impression that this culinary destination will leave a lasting impression and keep users coming back for more.
 
 
-## User Experience
+## User Experience UX
 
  ### User stories
 
@@ -109,4 +109,9 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - ### Landing page
     The landing page consists of a logo in the sticky header, followed by a cover with a background image, 4 sections and a footer.
     The purpose of this page is to introduce Chefs-Shop (section "Introductory"), to provide an appealing view of a chef preparing meals (section "about Chefs-Shop"), (section “Why Hire Us”) has a fixed background video showing food being prepared is to provide the quality of service users can get and a catchy event taken place, (section “What we offer:”) has another background image with different kinds of food and text to communicate Chefs-Shop services, within the text, there’s a border-radius photo dump section showing a Chef with his cutleries, and lastly the (section footer) displays social media links where users can further catch a glimpse of Chefs-Shop activity on the different platforms like Facebook, LinkedIn, Twitter, Instagram, YouTube and TikTok. Following this is a link to the Home, Contact Us, and the Site Map on the left corner below the social icons, and Contact Address on the right side of the footer and copyright information.
+
+  - ### Navbar and Footer
+    The purpose of the navigation bar and footer is to assist users in navigating the website smoothly and efficiently. The footer also provides links to relevant social media sites, which open in new tabs to ensure a seamless browsing experience.
+
+
 
