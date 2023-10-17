@@ -45,9 +45,21 @@ img {
     background: none;
 }
 
+#nav-toggle:checked~nav {
+    display: none;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2.5rem;
+}
+
 main {
   flex: 1 0 auto;
-  margin-top: 80px;
+  margin-top: 70px;
   display: flex;
   flex-direction: column;
 }
