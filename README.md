@@ -21,13 +21,14 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
  - [Design](#design)
 
 [Typography and color scheme](#typography-and-color-scheme)
+- [Background](#background)
 
 
 [Features](#features)
 
  - [Composition of the Website](#composition-of-the-website)
- - Responsiveness
- - Animations
+ - [Responsive devices](#responsive-devices)
+ - [Animations](#animations)
 
 </details>
 
