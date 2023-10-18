@@ -24,7 +24,7 @@ body {
 
 header {
     background-color: #D9B799;
-    padding: 0 1rem;
+    padding: 0;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -37,9 +37,7 @@ header {
 }
 
 header a {
-    padding-right: 0.8rem;
-    padding-left: 0;
-    padding-bottom: 0;
+    padding-right: 1.8rem;
 }
 
 #logo-text {
@@ -47,9 +45,9 @@ header a {
     font-weight: 400;
     font-size: 1.5rem;
     color: #181716;
-    margin: 5px 5px 2px 5px;
-    padding: 2px;
-    border: none;
+    margin: 5px 5px;
+    padding: 0px;
+    text-transform: uppercase;
 }
 
 
@@ -85,12 +83,12 @@ img {
     margin-top: 0;
     padding: 0;
     list-style: none;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .nav-list li {
-   flex-shrink: 1;
-   flex-grow: 1;
+   flex-shrink: 0;
+   flex-grow: 0;
 
 }
 
