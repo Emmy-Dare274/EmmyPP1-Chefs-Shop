@@ -32,9 +32,27 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-top: 0%;
+    margin-top: 0;
 
 }
+
+header a {
+    padding-right: 0.8rem;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
+#logo-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #181716;
+    margin: 5px 5px 2px 5px;
+    padding: 2px;
+    border: none;
+}
+
+
 
 header a {
     text-decoration: none;
@@ -55,7 +73,28 @@ img {
 
 .nav-toggle-label {
     font-size: 2.5rem;
+    display: none;
 }
+
+
+/* Navigation style ul  */
+
+.nav-list {
+    display: flex; 
+    flex-wrap: wrap;
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-list li {
+   flex-shrink: 1;
+   flex-grow: 1;
+
+}
+
+
 
 main {
   flex: 1 0 auto;
