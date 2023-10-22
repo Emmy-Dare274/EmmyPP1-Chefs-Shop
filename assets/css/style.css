@@ -88,7 +88,7 @@ nav {
     font-size: 2rem;
 }
 
-
+/* Main Content style  */
 
 main {
   flex: 1 0 auto;
@@ -96,8 +96,10 @@ main {
 }
 
 
+/* Footer style  */
 footer {
     background-color: #D9B799;
+    position: sticky;
 }
 #social-media {
     text-align: center;
@@ -107,8 +109,26 @@ footer {
     list-style-type: none;
 }
 
+footer > span {
+    font-size: 90%;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #181716;
+    padding: 0 0.5rem;
+    text-transform: uppercase;
+}
+
+footer > p {
+    font-size: 80%;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #181716;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
 #social-media i {
-    font-size: 160%;
+    font-size: 180%;
     padding: 5%;
     color: #181716;
 }
