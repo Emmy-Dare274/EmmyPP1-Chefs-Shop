@@ -99,3 +99,24 @@ main {
 footer {
     background-color: #D9B799;
 }
+
+
+/* Media Queries for tablets and larger screens */
+@media screen and (min-width: 768px) {
+    /* Header Navbar in display  */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    .nav-list {
+        display: flex;
+        padding-left: 1.5rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+}
