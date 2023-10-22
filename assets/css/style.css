@@ -97,7 +97,7 @@ main {
 
 /*cover image first section style*/
 #cover-image {
-    background: url('/assets/image/chef-touch-food-dark.jpg') no-repeat center center /cover;
+    background: url('../image/chef-touch-food-dark.jpg') no-repeat center center /cover;
     height: 500px;
 }  
 /*cover text in first div style*/
