@@ -99,6 +99,19 @@ main {
 footer {
     background-color: #D9B799;
 }
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: #181716;
+}
 
 
 /* Media Queries for tablets and larger screens */
