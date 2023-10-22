@@ -15,7 +15,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  /*line-height: 1.7;*/
+  
   color: #181716;
   
 }
@@ -29,25 +29,11 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #9C1E6C;
-    /*
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-top: 0;*/
 
 }
-
-/*#logo-text {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 1.5rem;
-    color: #181716;
-    margin: 5px 5px;
-    padding: 0;
-    text-transform: uppercase;
-}*/
-
-
 
 header a {
     text-decoration: none;
@@ -60,20 +46,6 @@ h1 {
     letter-spacing: 2px;
     color: #181716;
 }
-/*
-#nav-toggle:checked~nav {
-    display: block;
-}
-
-#nav-toggle {
-   display: none;
-}
-
-.nav-toggle-label {
-    font-size: 2.5rem;
-    display: ;
-}
-*/
 
 /* Navigation style ul class Nav-list */
 
@@ -92,16 +64,35 @@ h1 {
     border-bottom: 1px solid #181716;
 }
 
-/*
-nav ul {
-    margin: 0;
-    padding: 0;
+/* Navbar styles dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #D9B799;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #9C1E6C;
+    display: none;
+    top: 100%;
 }
-*/
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+
 
 main {
   flex: 1 0 auto;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 
 
