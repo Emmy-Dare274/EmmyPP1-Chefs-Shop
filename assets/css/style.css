@@ -134,7 +134,7 @@ main {
     display: none;
 }
 
-/* Introduction section here  */
+/* Introduction to Chef's-Shop section here  */
 .intro-text {
     background-color: #eaedf4;
     display: inline-block;
@@ -167,22 +167,23 @@ main {
    
 }
 
-/* Video section here  */
+/* About Chef's-Shop and Video section here  */
 
 video {
     background-color: #eaedf4;
-    height: 20%;
-    width: 50%;
+    height: 70%;
+    width: 70%;
     border-radius: 10px;
     padding-top: 2px;
     padding-bottom: 2px;
     position: sticky;
-    margin-left: 25%;
+    margin-left: 15%;
     
 }
 
 .vid {
     position: sticky;
+    height: 100%;
 }
 
 .vid-text {
@@ -194,6 +195,44 @@ video {
     padding-top: 10px;
 
 }
+
+/* Why Hire Us section with bg-image fixed */
+
+#hire-us {
+    background: url('../image/cheff-cooks.jpg') no-repeat center center /cover fixed;
+    margin-bottom: 40px;
+    padding: 1rem 0;
+    height: 400px;
+}
+
+#hire-us h2 {
+    font-family: 'lato', sans-serif cursive;
+    font-size: 150%;
+    font-weight: 400%;
+    letter-spacing: 2px;
+    line-height: 50px;
+    color: #181716;
+    text-align: center;
+    padding-top: 1px 0;
+    text-transform: lowercase;
+}
+
+.hire-us-text {
+    background-color: rgba(126,115,131, 0.3);
+    display: inline-block;
+    min-height: 50%;
+    width: 100%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: 95%;
+    font-weight: 400%;
+    font-family: 'lato', sans-serif;
+    margin-top: 1px;
+    line-height: 1.5;
+}
+
+
 
 
 /* Footer style  */
