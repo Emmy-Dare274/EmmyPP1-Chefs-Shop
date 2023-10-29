@@ -199,8 +199,15 @@ video {
 
 #hire-us {
     background: url('../image/cheff-cooks.jpg') no-repeat center center /cover fixed;
-    padding: 1rem 0;
-    height: 400px;
+    padding: 0.5rem 0;
+    height: 285px;
+    margin-bottom: 1rem;
+
+}
+
+.text-center {
+    text-align: center;
+    height: 50%;
 }
 
 #hire-us h2 {
@@ -208,26 +215,25 @@ video {
     font-size: 150%;
     font-weight: 400%;
     letter-spacing: 2px;
-    line-height: 50px;
+    line-height: 40px;
     color: #181716;
-    text-align: center;
     padding-top: 1px 0;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 
 .hire-us-text {
     background-color: rgba(126,115,131, 0.3);
-    display: inline-block;
-    min-height: 50%;
-    width: 100%;
+    position: relative;
+    min-height: 70%;
+    width: 90%;
     border-radius: 20px;
     text-align: center;
-    padding: 5px 5px 5px 5px;
-    font-size: 95%;
+    font-size: 90%;
     font-weight: 400%;
     font-family: 'lato', sans-serif;
     margin-top: 1px;
-    line-height: 1.5;
+    margin-left: 5%;
+    line-height: 1.3;
 }
 
 /* first section offer container image and text here */
