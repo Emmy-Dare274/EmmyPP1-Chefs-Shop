@@ -450,7 +450,7 @@ video {
 
 .final-service {
     width: 100%;
-    height: 400px;
+    height: 440px;
     background-color: #ababab57;
     margin-bottom: 0;
     /*box-shadow: 4px 4px 4px 5px #9C1E6C;*/
@@ -483,19 +483,50 @@ video {
     margin-left: 5px;
     margin-right: 5px;
 }
-
+/* Styling Div for customer supports here */
 .service {
-    height: 250px;
-    width: 80%;
+    height: 260px;
+    width: 70%;
     background-color: rgb(228, 233, 233);
     border-radius: 15px;
     box-shadow: 2px 2px 2px 2px #181716;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 15%;
     display: flex;
     flex-direction: column;
-    
 
+}
+
+.service span {
+    font-family: 'lato', sans-serif;
+    font-size: 70%;
+    font-weight: 400%;
+    letter-spacing: 1px;
+    line-height: 0.7rem;
+    color: #181716;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: initial;
+    text-align: center;
+}
+
+.service small {
+    font-family: 'lato', sans-serif;
+    font-size: 100%;
+    font-weight: 700%;
+    letter-spacing: 1px;
+    color: #f28730;
+    padding-top: 10px;
+    line-height: 0.5rem;
+    text-transform: initial;
+    text-align: center;
+}
+
+.secure i, .global i, .support i, .policy i {
+    font-size: 160%;
+    padding: 1%;
+    color: #181716;
 }
 
 
