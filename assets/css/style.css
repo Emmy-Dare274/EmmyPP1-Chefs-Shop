@@ -526,7 +526,7 @@ video {
 .secure i, .global i, .support i, .policy i {
     font-size: 160%;
     padding: 1%;
-    color: #181716;
+    color: #f28730;
 }
 
 
@@ -570,7 +570,7 @@ footer > p {
 }
 
 
-/* Media Queries for tablets and larger screens */
+/* Media Queries for tablets and big 768px screens */
 @media screen and (min-width: 768px) {
     /* Header Navbar in display  */
     nav {
@@ -649,7 +649,7 @@ footer > p {
     }
 
 }
-/* Media Queries for larger screens */
+/* Media Queries for large screens 992px */
 @media screen and (min-width: 992px) {
     .nav-list a:hover{
        border-bottom: 1px solid #181716;
@@ -695,4 +695,32 @@ video {
     line-height: 40px;
     padding-top: 10px;
 }
+}
+
+/* Media Queries for larger screens 1200px */
+
+@media screen and (min-width: 1200px) {
+    .nav-list a:hover{
+       border-bottom: 1px solid #181716;
+    }
+    .image-text {
+        margin-left: 5%;
+        margin-top: 25%;
+        padding: 5px 10px 5px 10px;
+        height: 30%;
+        width: 60%;
+        min-width: 250px;
+        text-align: center;
+        border-radius: 30px;
+        letter-spacing: 3px;
+        line-height: 30px;
+    }
+
+    /* Video section here  */
+    #fixed-vid {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10%;
+    }
 }
