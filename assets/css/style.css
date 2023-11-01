@@ -569,6 +569,12 @@ footer > p {
     color: #181716;
 }
 
+/* Media Queries for for large or landscape phones screens  */
+@media screen and (min-width: 576px) {
+ /* responsiveness for landscape phones here  */
+
+}
+
 
 /* Media Queries for tablets and big 768px screens */
 @media screen and (min-width: 768px) {
@@ -890,15 +896,20 @@ footer > p {
 
 
 
-
-
-
 /* Media Queries for large screens 992px */
 
 @media screen and (min-width: 992px) {
     .nav-list a:hover{
        border-bottom: 1px solid #181716;
     }
+
+    .nav-list li a:hover,
+    .nav-list li a:focus {
+        background: rgba(156,30,108, 0.3);
+        cursor: pointer;
+        padding: 0.5rem;
+    }
+
     .image-text {
         margin-left: 5%;
         margin-top: 25%;
@@ -942,12 +953,28 @@ video {
 }
 }
 
+
+
 /* Media Queries for larger screens 1200px */
 
 @media screen and (min-width: 1200px) {
-    .nav-list a:hover{
+    .nav-list a:hover {
        border-bottom: 1px solid #181716;
     }
+}
+     .nav-list li a:hover,
+     .nav-list li a:focus {
+         background: rgba(156,30,108, 0.3);
+         cursor: pointer;
+         padding: 0.5rem;
+     }
+
+     .nav-list li a:active {
+        background: rgba(156,30,108, 0.3);
+        cursor: pointer;
+        padding: 0.5rem;
+        border-radius: 10px;
+
     .image-text {
         margin-left: 5%;
         margin-top: 25%;
