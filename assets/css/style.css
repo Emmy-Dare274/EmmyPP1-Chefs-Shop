@@ -789,6 +789,64 @@ footer > p {
     margin-left: 5%;
 }
 /* Talk with Chef section for iPad here */
+.talk-with-chef {
+    height: 90%;
+    width: 90%;
+    text-align: center;
+}
+
+.talk-with-chef img {
+    height: 80%;
+    width: 75%;
+    margin-left: 10%;
+}
+
+.talk-with-chef-body {
+    font-size: 2rem;
+    font-weight: 600%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+/* Enjoy section for iPad here */
+.enjoy {
+    height: 90%;
+    width: 90%;
+    text-align: center;
+}
+.enjoy img {
+    height: 80%;
+    width: 75%;
+    margin-left: 10%;
+}
+.enjoy-body {
+    font-size: 2rem;
+    font-weight: 600%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+/* Plating section for iPad here */
+
+.plating {
+    height: 90%;
+    width: 90%;
+    text-align: center;
+}
+
+.plating img {
+    height: 80%;
+    width: 75%;
+    margin-left: 10%;
+}
+
+.plating-body {
+    font-size: 2rem;
+    font-weight: 600%;
+    text-align: center;
+    margin-left: 5%;
+}
+
 
 
 
