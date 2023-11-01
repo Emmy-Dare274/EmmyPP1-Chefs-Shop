@@ -589,7 +589,7 @@ footer > p {
     }
 
     .nav-list li {
-        margin-inline: 1rem;
+        margin-inline: 0.7rem;
     }
 
     /* Add active and focus to the li a link */
@@ -600,7 +600,12 @@ footer > p {
         padding: 0.5rem;
     }
 
-
+    .nav-list li a:active {
+        background: rgba(156,30,108, 0.3);
+        cursor: pointer;
+        padding: 0.5rem;
+        border-radius: 10px;
+    }
 
     .nav-toggle-label {
         display: none;
@@ -637,7 +642,7 @@ footer > p {
     .image-text p {
         display: inline-block;
         font-size: 180%;
-        font-weight: 500%;
+        font-weight: 600%;
         letter-spacing: 2px;
         line-height: 30%;
         color: #181716;
@@ -653,12 +658,84 @@ footer > p {
         display: none;
     }
 
+/* Introduction section for media  */
 
-
-    
-
+#introduction {
+    margin-left: 10px 0;
+    padding: 2rem 0;
 }
+.intro-text {
+    background-color: #eaedf4;
+    display: inline-block;
+    min-height: 200%;
+    width: 100%;
+    text-align: center;
+   
+}
+
+.intro-text h2 {
+    font-family: 'lato', sans-serif;
+    font-size: 160%;
+    font-weight: 800%;
+    letter-spacing: 1px;
+    line-height: 30px;
+    color: #181716;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.intro-text p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    font-weight: 600%;
+    line-height: 10px;
+    letter-spacing: 1px;
+    padding: 1.5rem;
+   
+}
+/* About us Video section */
+
+#fixed-vid {
+    text-align: center;
+    height: 300%;
+    padding: 1rem;
+}
+
+.vid-text h2 {
+    display: inline;
+    background-color: #020201;
+    border-radius: 5px;
+    font-family: 'lato', sans-serif;
+    font-size: 2rem;
+    font-weight: 800%;
+    align-items: center;
+    padding: 0.7rem;
+    color: #eaedf4;
+   
+}
+
+.vid-text p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600%;
+    padding: 0.5rem 0;
+}
+
+#fixed-vid video {
+    margin-left: 3%;
+    width: 80%;
+    height: 70%;
+    padding-bottom: 0.6rem;
+    padding-top: 0.5rem;
+    border-radius: 35px;
+}
+
+
+
+
 /* Media Queries for large screens 992px */
+
 @media screen and (min-width: 992px) {
     .nav-list a:hover{
        border-bottom: 1px solid #181716;
@@ -726,10 +803,12 @@ video {
     }
 
     /* Video section here  */
+
     #fixed-vid {
     display: inline-flex;
     flex-direction: row;
     align-items: center;
     margin-left: 10%;
+
     }
-}
+}}
