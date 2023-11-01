@@ -731,6 +731,46 @@ footer > p {
     border-radius: 35px;
 }
 
+/* Why hire us cover image section */
+
+#hire-us {
+    background: url('../image/cheff-cooks.jpg') no-repeat center center /cover fixed;
+    padding: 1rem;
+    height: 450px;
+    margin-bottom: 1rem;
+}
+
+#hire-us h2 {
+    font-size: 1.5rem;
+    font-weight: 800%;
+    letter-spacing: 1px;
+    background-color: rgba(2,2,1, 0.6);
+    display: inline;
+    color: #eaedf4;
+    padding: 0.5rem;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.hire-us-text {
+    background-color: rgba(126,115,131, 0.3);
+    height: 88%;
+    width: 90%;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.hire-us-text p {
+    font-family: 'lato', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600%;
+    padding: 1rem;
+    letter-spacing: 2px;
+}
+/* Offer section for iPad here */
+
 
 
 
