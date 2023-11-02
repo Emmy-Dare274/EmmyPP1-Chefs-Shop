@@ -833,20 +833,26 @@ footer > p {
 
 /* Enjoy section for iPad here */
 .enjoy {
-    height: 90%;
-    width: 90%;
-    text-align: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
 }
-.enjoy img {
-    height: 80%;
-    width: 75%;
-    margin-left: 10%;
+.enjoy-image {
+    height: 65%;
+    width: 70%;
+    margin-left: 1rem;
 }
 .enjoy-body {
-    font-size: 2rem;
-    font-weight: 600%;
-    text-align: center;
-    margin-left: 5%;
+    font-size: 1.4rem;
+    font-weight: 500%;
+}
+.enjoy-body span {
+    font-size: 1rem;
+    font-weight: 500%;
+    margin-left: 11rem;
 }
 
 /* Plating section for iPad here */
