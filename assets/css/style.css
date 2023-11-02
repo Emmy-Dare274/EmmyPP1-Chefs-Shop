@@ -628,11 +628,11 @@ footer > p {
 
     /*cover text first section style for larger screen */
     .image-text {
-        margin-left: 8%;
-        margin-top: 40%;
+        margin-left: 6%;
+        margin-top: 26%;
         padding: 5px 5px;
         height: 30%;
-        width: 80%;
+        width: 70%;
         text-align: center;
         border-radius: 25px;
         letter-spacing: 3px;
@@ -777,23 +777,31 @@ footer > p {
 }
 /* Offer section for iPad here */
 .offer-container {
-    height: 90%;
-    width: 90%;
-    text-align: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.offer-container img {
-    height: 80%;
-    width: 75%;
-    margin-left: 10%;
+.offer-image {
+    height: 65%;
+    width: 65%;
+    margin-left: 1rem;
 }
 
 .offer-body {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 600%;
-    text-align: center;
-    margin-left: 5%;
+    align-self: center;
+    padding-left: 0.4rem;
 }
+.offer-body span {
+    font-size: 1rem;
+    font-weight: 500%;
+    margin-left: 11rem;
+}
+
 /* Talk with Chef section for iPad here */
 .talk-with-chef {
     height: 90%;
