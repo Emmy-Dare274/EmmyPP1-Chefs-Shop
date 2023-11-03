@@ -1135,5 +1135,84 @@ footer > p {
         margin-left: 1rem;
     }
     /* Enjoy section here  */
-    
+    .enjoy-body {
+        font-size: 2.2rem;
+        font-weight: 500%;
+        margin-right: 1rem;
+    }
+    .enjoy-body span {
+        font-size: 1.5rem;
+        font-weight: 500%;
+        margin-left: 16rem;
+    }
+    .enjoy-image {
+        height: 70%;
+        width: 85%;
+        margin-left: 1rem;
+    }
+    /* Plating section here  */
+    .plating-body {
+        font-size: 1.8rem;
+        font-weight: 500%;
+        margin-left: 1rem;
+    }
+    .plating-body span {
+        font-size: 1.5rem;
+        font-weight: 500%;
+        margin-left: 18rem;
+    }
+    .plating-image {
+        height: 85%;
+        width: 90%;
+        margin-right: 1rem;
+    }
+    /* final for Home page section here  */
+    .final-service {
+        height: 480px;
+    }
+    .final-service h3 {
+        font-size: 2rem;
+    }
+    .final-service p {
+        font-size: 0.8rem;
+    }
+    .service {
+        height: 350px;
+        width: 40%;
+        font-size: 2rem;
+        line-height: 1px;
+        margin-left: 30%;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-basis: 10%;
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+    .service small {
+        font-size: 0.7rem;
+        font-weight: 500%;
+        padding: 1rem;
+    }
+    .service span {
+        font-size: 0.7rem;
+        font-weight: 400%;
+        padding: 0.5rem;
+    }
+    .span-text span {
+        font-size: 1.5rem;
+        font-weight: 500%;
+        padding: 1rem;
+        margin-left: 3%;
+    }
+    .secure i, .global i, .support i, .policy i {
+        font-size: 200%;
+        line-height: 1.8rem;
+    }
+    .span-text p {
+        font-size: 1rem;
+        font-weight: 500%;
+        padding: 1rem;
+        margin-left: 3%;
+    }
 }
