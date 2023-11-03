@@ -1036,6 +1036,12 @@ footer > p {
         gap: 30px;
         font-size: 1.5rem;
     }
+    /* Introduction section here  */
+    .intro-text {
+        font-size: 1.5rem;
+        line-height: 1px;
+        padding: 0.8rem;
+    }
 
     #cover-image {
         height: 700px;
@@ -1069,7 +1075,7 @@ footer > p {
         height: 80%;
         width: 80%;
     }
-
+    /* Hire us section here  */
     #hire-us {
         height: 600px;
         padding: 5% 0;
@@ -1094,5 +1100,40 @@ footer > p {
     .adjust-us {
         margin-left: 5%;
     }
+    /* offer section here  */
 
+    .offer-body {
+        font-size: 2.5rem;
+        font-weight: 500%;
+        padding-right: 2rem;
+    }
+    .offer-body span {
+        font-size: 1.5rem;
+        font-weight: 500%;
+        margin-left: 15rem;
+    }
+    .offer-image {
+        height: 70%;
+        width: 85%;
+        margin-left: 1rem;
+    }
+    /* Talk with chef section here  */
+    .talk-with-chef-body {
+        font-size: 2.2rem;
+        font-weight: 500%;
+        margin-left: 1rem;
+    }
+    .talk-with-chef-body span {
+        font-size: 1.5rem;
+        font-weight: 500%;
+        margin-left: 16rem;
+    }
+
+    .image-chef {
+        height: 70%;
+        width: 85%;
+        margin-left: 1rem;
+    }
+    /* Enjoy section here  */
+    
 }
