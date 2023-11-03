@@ -658,27 +658,27 @@ footer > p {
         display: inline-block;
         font-size: 150%;
     }
-/* 'Welcome To' text hidden from the text box here */
+    /* 'Welcome To' text hidden from the text box here */
     .image-text .hidden-text {
         display: none;
     }
 
-/* Introduction section for media  */
+    /* Introduction section for media  */
 
-#introduction {
+    #introduction {
     margin-left: 10px 0;
     padding: 2rem 0;
-}
-.intro-text {
+    }
+    .intro-text {
     background-color: #eaedf4;
     display: inline-block;
     min-height: 200%;
     width: 100%;
     text-align: center;
    
-}
+    }
 
-.intro-text h2 {
+    .intro-text h2 {
     font-family: 'lato', sans-serif;
     font-size: 160%;
     font-weight: 800%;
@@ -688,9 +688,9 @@ footer > p {
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-}
+    }
 
-.intro-text p {
+    .intro-text p {
     font-family: 'Roboto', sans-serif;
     font-size: 100%;
     font-weight: 600%;
@@ -698,16 +698,16 @@ footer > p {
     letter-spacing: 1px;
     padding: 1.5rem;
    
-}
-/* About us Video section */
+    }
+    /* About us Video section */
 
-#fixed-vid {
+    #fixed-vid {
     text-align: center;
     height: 300%;
     padding: 1rem;
-}
+    }
 
-.vid-text h2 {
+    .vid-text h2 {
     display: inline;
     background-color: #020201;
     border-radius: 5px;
@@ -718,34 +718,34 @@ footer > p {
     padding: 0.7rem;
     color: #eaedf4;
    
-}
+    }
 
-.vid-text p {
+    .vid-text p {
     font-family: 'Roboto', sans-serif;
     font-size: 1.3rem;
     font-weight: 600%;
     padding: 0.5rem 0;
-}
+    }
 
-#fixed-vid video {
+    #fixed-vid video {
     margin-left: 3%;
     width: 80%;
     height: 70%;
     padding-bottom: 0.6rem;
     padding-top: 0.5rem;
     border-radius: 35px;
-}
+    }
 
-/* Why hire us cover image section */
+    /* Why hire us cover image section */
 
-#hire-us {
+    #hire-us {
     background: url('../image/cheff-cooks.jpg') no-repeat center center /cover fixed;
     padding: 1rem;
     height: 450px;
     margin-bottom: 1rem;
-}
+    }
 
-#hire-us h2 {
+    #hire-us h2 {
     font-size: 1.5rem;
     font-weight: 800%;
     letter-spacing: 1px;
@@ -755,9 +755,9 @@ footer > p {
     padding: 0.5rem;
     border-radius: 15px;
     margin-top: 20px;
-}
+    }
 
-.hire-us-text {
+    .hire-us-text {
     background-color: rgba(126,115,131, 0.3);
     height: 88%;
     width: 90%;
@@ -765,130 +765,130 @@ footer > p {
     text-align: center;
     margin-top: 20px;
     
-}
+    }
 
-.hire-us-text p {
+    .hire-us-text p {
     font-family: 'lato', sans-serif;
     font-size: 1.5rem;
     font-weight: 600%;
     padding: 1rem;
     letter-spacing: 2px;
-}
-/* Offer section for iPad here */
-.offer-container {
+    }
+    /* Offer section for iPad here */
+    .offer-container {
     height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+    }
 
-.offer-image {
+    .offer-image {
     height: 65%;
     width: 65%;
     margin-left: 1rem;
-}
+    }
 
-.offer-body {
+    .offer-body {
     font-size: 1.5rem;
     font-weight: 600%;
     align-self: center;
     padding-left: 0.4rem;
     padding-right: 1rem;
-}
-.offer-body span {
+    }
+    .offer-body span {
     font-size: 1rem;
     font-weight: 500%;
     margin-left: 11rem;
-}
+    }
 
-/* Talk with Chef section for iPad here */
-.talk-with-chef {
+    /* Talk with Chef section for iPad here */
+    .talk-with-chef {
     height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row-reverse;
-}
+    }
 
-.image-chef {
+    .image-chef {
     height: 70%;
     width: 85%;
     margin-left: 1rem;
     padding-right: 0.8rem;
     flex-grow: 0;
-}
+    }
 
-.talk-with-chef-body {
+    .talk-with-chef-body {
     font-size: 1.3rem;
     font-weight: 500%;
-}
-.talk-with-chef span {
+    }
+    .talk-with-chef span {
     font-size: 1rem;
     font-weight: 500%;
     margin-left: 11rem;
-}
+    }
 
-/* Enjoy section for iPad here */
-.enjoy {
+    /* Enjoy section for iPad here */
+    .enjoy {
     height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 1rem;
-}
-.enjoy-image {
+    }
+    .enjoy-image {
     height: 65%;
     width: 70%;
     margin-left: 1rem;
-}
-.enjoy-body {
+    }
+    .enjoy-body {
     font-size: 1.4rem;
     font-weight: 500%;
-}
-.enjoy-body span {
+    }
+    .enjoy-body span {
     font-size: 1rem;
     font-weight: 500%;
     margin-left: 11rem;
-}
+    }
 
-/* Plating section for iPad here */
+    /* Plating section for iPad here */
 
-.plating {
+    .plating {
     height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row-reverse;
-}
+    }
 
-.plating-image {
+    .plating-image {
     height: 80%;
     width: 95%;
     padding-right: 0.8rem;
     flex-grow: 1;
-}
+    }
 
-.plating-body {
+    .plating-body {
     font-size: 1.2rem;
     font-weight: 500%;
     margin-left: 1rem;
     flex-shrink: 1;
     flex-wrap: wrap;
-}
+    }
 
-.plating-body span {
+    .plating-body span {
     font-size: 1rem;
     font-weight: 500%;
     margin-left: 12rem;
-}
+    }
 
-/* Final service section for iPad here */
+    /* Final service section for iPad here */
 
-.final-service {
+    .final-service {
     width: 100%;
     height: 450px;
     background-color: #ababab57;
@@ -896,8 +896,8 @@ footer > p {
     display: inline-block;
     font-size: 1.5rem;
     padding: 1.5rem;
-}
-.service {
+    }
+    .service {
     height: 310px;
     width: 60%;
     background-color: rgb(228, 233, 233);
@@ -907,32 +907,31 @@ footer > p {
     line-height: 2px;
     margin-left: 20%;
     
-}
+    }
 
-.service small {
+    .service small {
     font-size: 1.3rem;
     font-weight: 700%;
     padding: 0.6rem 0;
    
-}
+    }
 
-.service span {
+    .service span {
     font-size: 1rem;
     font-weight: 500%;
     padding: 0.4rem;
-}
+    }
 
-.secure i, .global i, .support i, .policy i {
+    .secure i, .global i, .support i, .policy i {
     font-size: 180%;
     line-height: 1.8rem;
+    }
 }
-
-
 
 /* Media Queries for large screens 992px */
 
 @media screen and (min-width: 992px) {
-    .nav-list a:hover{
+    .nav-list a:hover {
        border-bottom: 1px solid #181716;
     }
 
@@ -971,9 +970,10 @@ footer > p {
     flex-direction: row;
     align-items: center;
     margin-left: 5%;
-}
+    }
 
-video {
+
+    video {
     background-color: #eaedf4;
     height: 50%;
     width: 85%;
@@ -982,60 +982,71 @@ video {
     position: sticky;
     margin-left: 10%;
     padding-top: 2px;
+    }
 
-}
-
-.vid-text {
+    .vid-text {
     text-align: left;
     font-size: 120%;
     font-weight: 40%;
     letter-spacing: 2px;
     line-height: 40px;
     padding-top: 10px;
-}
-}
+    }
 
-.intro-text {
+    .intro-text {
     font-size: large;
     line-height: 1px;
     padding: 0.8rem;
-}
-.hire-us-text {
+    }
+    .hire-us-text {
     height: 80%;
     font-size: 2rem;
     font-weight: 500%;
     padding: 0.5rem;
     letter-spacing: 2px;
     line-height: 1.5;
+    }
 }
 
 
 /* Media Queries for larger screens 1200px */
 
 @media screen and (min-width: 1200px) {
+
     .nav-list a:hover {
        border-bottom: 1px solid #181716;
     }
-}
+
      .nav-list li a:hover,
      .nav-list li a:focus {
          background: rgba(156,30,108, 0.3);
          cursor: pointer;
          padding: 0.5rem;
-     }
+    }
 
      .nav-list li a:active {
         background: rgba(156,30,108, 0.3);
         cursor: pointer;
         padding: 0.5rem;
         border-radius: 10px;
+    }
+    .nav-list {
+        display: flex;
+        padding-right: 6rem;
+        gap: 30px;
+        font-size: 1.5rem;
+    }
+
+    #cover-image {
+        height: 700px;
+    }
 
     .image-text {
         margin-left: 5%;
         margin-top: 25%;
         padding: 5px 10px 5px 10px;
         height: 30%;
-        width: 60%;
+        width: 50%;
         text-align: center;
         border-radius: 30px;
         letter-spacing: 3px;
@@ -1049,6 +1060,6 @@ video {
     flex-direction: row;
     align-items: center;
     margin-left: 10%;
-
     }
-}}
+
+}
