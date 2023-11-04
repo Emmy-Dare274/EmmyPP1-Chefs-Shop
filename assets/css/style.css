@@ -91,8 +91,8 @@ nav {
 /* Main Content style  */
 
 main {
-  flex: 1 0 auto;
-  margin-top: 35px;
+    flex: 1 0 auto;
+    margin-top: 100px;
 }
 
 /*cover image first section style*/
@@ -535,6 +535,7 @@ video {
 }
 .photos {
     line-height: 0;
+    margin-top: 60px;
 }
 
 
@@ -576,9 +577,13 @@ footer > p {
     color: #181716;
 }
 
-/* Media Queries for for large or landscape phones screens  */
+/* Media Queries for for large or landscape, phones (576px) and up  */
 @media screen and (min-width: 576px) {
- /* responsiveness for landscape phones here  */
+    /* Gallery page */
+    .photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 
 }
 
@@ -934,6 +939,10 @@ footer > p {
     font-size: 180%;
     line-height: 1.8rem;
     }
+    /* Gallery page */
+    .photos {
+        column-count: 2;
+    }
 }
 
 /* Media Queries for large screens 992px */
@@ -1013,6 +1022,10 @@ footer > p {
     padding: 0.5rem;
     letter-spacing: 2px;
     line-height: 1.5;
+    }
+    /* Gallery page */
+    .photos {
+        column-count: 3;
     }
 }
 
