@@ -527,7 +527,15 @@ video {
     padding: 1%;
     color: #f28730;
 }
+/* Gallery page style here */
 
+.photos img {
+    width: 100%;
+    line-height: 1em;
+}
+.photos {
+    line-height: 0;
+}
 
 
 
