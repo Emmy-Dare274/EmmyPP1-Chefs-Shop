@@ -92,7 +92,7 @@ nav {
 
 main {
     flex: 1 0 auto;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 /*cover image first section style*/
@@ -538,6 +538,27 @@ video {
     margin-top: 5px;
 }
 
+/* Contact Us Form Styled here */
+.cover-image {
+    background: url('../image/chef-meeting.jpeg') no-repeat center center /cover;
+    height: 500px;
+    position: relative;
+
+}
+.contact {
+    background-color: rgba(24,23,22, 0.5);
+    max-width: 600%;
+    margin-top: 35px;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 30px;
+}
+.contact-us {
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #eaedf4;
+    
+}
 
 
 /* Footer style  */
@@ -575,28 +596,6 @@ footer > p {
     font-size: 180%;
     padding: 5%;
     color: #181716;
-}
-
-/* Contact Us Form Styled here */
-.cover-image {
-    background: url('../image/chef-meeting.jpeg') no-repeat center center /cover;
-    height: 500px;
-    position: relative;
-
-}
-.contact {
-    background-color: rgba(24,23,22, 0.5);
-    max-width: 600%;
-    margin-top: 35px;
-    margin-left: 4%;
-    margin-right: 4%;
-    border-radius: 30px;
-}
-.contact-us {
-    padding: 20px;
-    font-family: 'Roboto', sans-serif;
-    color: #eaedf4;
-    
 }
 
 
