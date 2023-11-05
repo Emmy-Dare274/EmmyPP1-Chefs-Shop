@@ -1139,6 +1139,38 @@ footer > p {
     .photos img {
         border: 2px solid #9C1E6C;
     }
+    /* Contact Us Form Styled here for larger screen*/
+    .contact {
+        margin-right: 35%;
+        margin-left: 12%;
+    }
+    .contact-us {
+        margin-top: 35%
+    }
+    .contact-us h2 {
+        font-size: 2.3rem;
+    }
+    .contact-us label {
+        font-size: 1.4rem;
+    }
+    .top {
+        height: 90px;
+    }
+    .button:hover {
+        background-color: #181716;
+        color: #eaedf4;
+    }
+    .map {
+        margin-top: 5px;
+        padding: 15px;
+        font-size: 100%;
+        width: 70%;
+        margin-left: 12%;
+    }
+    .find-map {
+        width: 70%;
+    }
+    
 }
 
 
