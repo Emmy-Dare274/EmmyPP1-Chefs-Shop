@@ -1021,8 +1021,8 @@ footer > p {
     }
     /* Contact Us Form Styled here */
     .contact {
-        margin-right: 36%;
-        margin-left: 10%;
+        margin-right: 35%;
+        margin-left: 12%;
     }
     .contact-us {
         margin-top: 30%
@@ -1044,7 +1044,7 @@ footer > p {
         margin-top: 5px;
         padding: 10px;
         font-size: 100%;
-        width: 70%;
+        width: 80%;
         margin-left: 10%;
     }
     .find-map {
