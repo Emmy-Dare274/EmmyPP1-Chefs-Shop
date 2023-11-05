@@ -707,7 +707,7 @@ footer > p {
     }
     /* Main Content push down for larger header */
     main {
-        margin-top: 5px;
+        margin-top: 80px;
     }
 
     /*cover text first section style for larger screen */
@@ -1020,25 +1020,37 @@ footer > p {
         border: 1px solid #9C1E6C;
     }
     /* Contact Us Form Styled here */
-    .cover-image {
-        background-position: center;
-        position: relative;
-    }
     .contact {
-        max-width: 400px;
-        position: absolute;
-        left: 10%;
-        top: 150px;
+        margin-right: 36%;
+        margin-left: 10%;
+    }
+    .contact-us {
+        margin-top: 30%
     }
     .contact-us h2 {
         font-size: 2rem;
     }
     .contact-us label {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
     .top {
-        height: 100px;
+        height: 80px;
     }
+    .button:hover {
+        background-color: #181716;
+        color: #eaedf4;
+    }
+    .map {
+        margin-top: 5px;
+        padding: 10px;
+        font-size: 100%;
+        width: 70%;
+        margin-left: 10%;
+    }
+    .find-map {
+        width: 70%;
+    }
+   
 }
 
 /* Media Queries for large screens 992px */
