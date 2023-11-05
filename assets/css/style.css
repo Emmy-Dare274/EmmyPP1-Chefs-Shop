@@ -707,7 +707,7 @@ footer > p {
     }
     /* Main Content push down for larger header */
     main {
-        margin-top: 80px;
+        margin-top: 20px;
     }
 
     /*cover text first section style for larger screen */
