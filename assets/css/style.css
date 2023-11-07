@@ -199,7 +199,7 @@ video {
 #hire-us {
     background: url('../image/cheff-cooks.jpg') no-repeat center center /cover fixed;
     padding: 0.5rem 0;
-    height: 285px;
+    height: 295px;
     margin-bottom: 1rem;
 
 }
@@ -243,10 +243,10 @@ video {
     margin-left: 5%;
     padding-bottom: 2%;
     padding-top: 4%;
+    margin-top: 4%;
 }
 
 .offer-body {
-    /*background-color: #eaedf4;*/
     display: inline-block;
     height: 50%;
     width: 100%;
