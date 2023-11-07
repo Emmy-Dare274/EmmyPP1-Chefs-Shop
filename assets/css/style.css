@@ -538,6 +538,10 @@ video {
     margin-top: 5px;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Contact Us Form Styled here */
 .cover-image {
     background: url('../image/chef-meeting.jpeg') no-repeat center center /cover;
