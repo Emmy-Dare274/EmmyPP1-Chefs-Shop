@@ -39,7 +39,7 @@ header a {
     text-decoration: none;
     color: #181716;
 }
-
+/*Header Logo-text here */
 h1 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
@@ -118,7 +118,7 @@ main {
     letter-spacing: 3px;
 }
 
-.image-text h1 {
+.image-text h2 {
     font-family: 'lato', sans-serif;
     font-size: 180%;
     font-weight: 600%;
@@ -722,7 +722,7 @@ footer > p {
         letter-spacing: 3px;
         line-height: 20px;
     }
-    .image-text h1 {
+    .image-text h2 {
         font-size: 300%;
         font-weight: 600%;
         letter-spacing: 3px;
@@ -1082,11 +1082,17 @@ footer > p {
         line-height: 30px;
     }
 
-    .image-text h1, .image-text p {
+    .image-text h2 {
         font-weight: 600%;
         letter-spacing: 3px;
         line-height: 50px;
         padding-top: 6px;
+        font-size: 350%;
+    }
+    .image-text p {
+        font-size: 180%;
+        padding: 4px;
+        line-height: 50px;
     }
 
     /* Video section here  */
@@ -1216,6 +1222,17 @@ footer > p {
         border-radius: 30px;
         letter-spacing: 3px;
         line-height: 30px;
+    }
+    .image-text h2 {
+        font-size: 380%;
+        font-weight: 600%;
+        letter-spacing: 3px;
+        line-height: 50px;
+        padding-top: 10px;
+    }
+    .image-text p {
+        font-size: 200%;
+        font-weight: 600%;
     }
 
     /* Video section here  */
