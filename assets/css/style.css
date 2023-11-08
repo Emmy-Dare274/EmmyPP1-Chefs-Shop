@@ -616,6 +616,31 @@ iframe {
     margin-top: 5%;
 }
 
+/* Response feeds for Contact Us page style here */
+.response-feed {
+    max-width: 500px;
+    margin: 15rem auto;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgba(234,237,244, 0.5);
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+.response-feed h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #181716;
+}
+.response-feed p {
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-top: 2rem;
+}
 
 /* Footer style  */
 footer {
