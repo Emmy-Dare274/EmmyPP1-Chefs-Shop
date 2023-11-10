@@ -256,3 +256,10 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - [Google Map API](https://www.googlemapsiframegenerator.com/) | was used to generate map codes for website.
 
+## Testing
+
+  - ### Code Validation and Testing
+
+    - #### HTML
+      - ##### Home page
+      - The official W3C validator tool did not detect any errors or warnings during the validation process.
