@@ -273,6 +273,45 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
        </details>
 
-      - [Tiny](https://tinypng.com/) | was used to optimise images for website.
 
-      - [Tiny](https://tinypng.com/) | was used to optimise images for website.
+        - ##### Gallery page
+
+      - The official W3C validator tool did not detect any errors or warnings during the validation process.
+
+      - [W3C Markup Validation Result |Gallery page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Femmy-dare274.github.io%2FEmmyPP1-Chefs-Shop%2Fgallery.html) | Gallery page validated without error.
+
+      <details>
+
+         <summary>Gallery page result </summary> 
+         <img src="assets/image/validat-gallery.png" width="600" alt="gallery page result">
+
+       </details>
+
+
+        - ##### Contact page
+
+        - The official W3C validator tool did not detect any errors or warnings during the validation process.
+
+       - [W3C Markup Validation Result |Contact page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Femmy-dare274.github.io%2FEmmyPP1-Chefs-Shop%2Fcontactus.html) | Contact Us page validated without error.
+
+        <details>
+
+         <summary>Contact Us page result </summary> 
+         <img src="assets/image/ valida-contact.png" width="600" alt="contact us page result">
+
+       </details>
+
+        - ##### CSS style
+
+         - The official W3C validator tool did not detect any errors or warnings during the validation process.
+
+         - [W3C Markup Validation Result |CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Femmy-dare274.github.io%2FEmmyPP1-Chefs-Shop%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | CSS validated without error.
+
+        <details>
+
+         <summary>CSS result </summary> 
+         <img src="assets/image/css-validate.png" width="600" alt="CSS result">
+
+        </details>
+
+
