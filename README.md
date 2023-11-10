@@ -234,3 +234,25 @@ By carefully considering the needs of our users, I crafted a website that boasts
 - [Color Name](https://www.color-name.com/) | was used to detect color names.
 
 - [Colorrrs](https://www.webfx.com/web-design/random-color-picker/) | was used to convert HEX color to RGB.
+
+
+## Tools
+
+  - [Pexels](https://www.pexels.com/) | was used to get images for website.
+
+  - [Unsplash](https://unsplash.com/) | was used to get images for website.
+
+  - [Rawpixel](https://www.rawpixel.com/) | was used to get images for website.
+
+  - [Colorspace](https://mycolor.space/?hex=%2336194B&sub=1) | was used to choose colors for website.
+
+  - [Compressor](https://compressor.io/) | was used to optimise images for website.
+
+  - [Font Awesome](https://fontawesome.com/) | was used to select icons for website.
+
+  - [I Am Responsive](https://ui.dev/amiresponsive) | was used to check website responsiveness on all devices.
+
+  - [Tiny](https://tinypng.com/) | was used to optimise images for website.
+
+  - [Google Map API](https://www.googlemapsiframegenerator.com/) | was used to generate map codes for website.
+
