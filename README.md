@@ -3,6 +3,8 @@
 [Click here to view live page.](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/) 
 <!-- add link to the website picture here -->
 
+<img src="assets/image/am-I-responsive.png" width="860" alt="image-from-Am-I-responsive">
+
 Chefs-Shop is a website that I built as part of my training to become a Full Stack Web Developer with [Code Institute](https://codeinstitute.net/). This project allowed me to showcase my skills in both HTML and CSS.
 
 To do this and simplify culinary needs, I created a one-stop online shop for expert chefs where users are connected with expert chefs who are ready to meet all of their culinary needs.
