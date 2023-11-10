@@ -113,14 +113,8 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - Roboto Google fonts were used for the main logo and headings to be visually appealing while also   maintaining accessibility.
 
   <img src="assets/image/Lato-Font.png" width="400" alt="image of Lato font">
-  
+
   - I opted to use the Lato font as the main font of the website due to its excellent accessibility and readability features.
-
-  
-
-
-
-
 
 
 ## Features
@@ -201,10 +195,42 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - ### Responsive devices
     The website has been designed to be responsive and easily accessible on any device. For instance, when viewed on a phone screen, the navigation bar is replaced by a burger icon button, making it easier to navigate. Additionally, the text in some sections has been modified to fit the screen size, ensuring that users get complete information regardless of the device they are using. This approach allows laptop and desktop users to access detailed information while phone users can focus on the main information.
 
-    <!-- Add Responsive image here -->
 
   - ### Animations
     To enhance the user experience, the website has minimal animation. However, to make navigation easier, the links in the navigation bar change their background color and padding when the mouse hovers over them while the text goes underlined simultaneously.
 
   - ### Positioning
     I have made sure to carefully position the elements on every page, including the Home page, Gallery page, and Contact Us page, to ensure the best possible user experience and accessibility.
+
+## Future feature
+
+  - I want to make the website more interactive and accessible.
+  - I want the Navbar links to have a background effect that stays active on the page.
+
+  - I want to make the video as a background fixed video.
+
+  - Make the website quality stand out with different interactives.
+
+## Future improvement
+
+  - I would like to add more content to my Home page. Specifically, I want to make the images and text stand out by placing them in different positions. I also want to add figure captions to my Gallery images, so when the user hovers over the images, styled figure captions will appear and give the user more information about the benefits that Chefs-Shop offers.
+
+  - I need the interactive map to be more prominent and visually appealing on all devices.
+
+## Technology used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | was used to build the structure of the website.
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) | was used to add style to the HTML making the website presentable.
+
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) | was used to arrnage items on the webpage.
+
+- [VS Code](https://code.visualstudio.com/) | was used as the IDE to write, edit, and push codes.
+
+- [Git](https://git-scm.com/) | was used for the version control of the website.
+
+- [GitHub](https://github.com/) | was used to host the code of the website and for deployment.
+
+- [Color Name](https://www.color-name.com/) | was used to detect color names.
+
+- [Colorrrs](https://www.webfx.com/web-design/random-color-picker/) | was used to convert HEX color to RGB.
