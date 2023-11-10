@@ -112,15 +112,30 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - ### Landing page
     The landing page consists of a logo in the sticky header, followed by a cover with a background image, 4 sections and a footer.
-    The purpose of this page is to introduce Chefs-Shop (section "Introductory"), to provide an appealing view of a chef preparing meals (section "about Chefs-Shop"), (section “Why Hire Us”) has a fixed background video showing food being prepared is to provide the quality of service users can get and a catchy event taken place, (section “What we offer:”) has another background image with different kinds of food and text to communicate Chefs-Shop services, within the text, there’s a border-radius photo dump section showing a Chef with his cutleries, and lastly the (section footer) displays social media links where users can further catch a glimpse of Chefs-Shop activity on the different platforms like Facebook, LinkedIn, Twitter, Instagram, YouTube and TikTok. Following this is a link to the Home, Contact Us, and the Site Map on the left corner below the social icons, and Contact Address on the right side of the footer and copyright information.
+    The purpose of this page is to introduce Chefs-Shop (section "Introductory"), to provide an appealing view of a chef preparing meals (section "about Chefs-Shop"), (section “Why Hire Us”) has a fixed background image showing food being prepared is to provide the quality of service users can get and a catchy event taken place, (section “What we offer:”) has an image with a chef portioning food and text to communicate Chefs-Shop services. a section that communicates the services users can get with an image, a section about a catchy meal prepared by chefs with text, a section that showcases an image of a chef cooking with text, a section that gives users the guarantee of quality services and customer-ready response, and lastly the (footer section) displays social media links where users can further catch a glimpse of Chefs-Shop activity on the different platforms like Facebook, LinkedIn, Twitter, Instagram, YouTube and TikTok. Following this is the footer and copyright information.
 
     <details>
-    <summary>Image of the Landing page </summary> <!-- Add landing page image -->
+    <summary>Image of the Landing page </summary>
+    <img src="assets/image/landing-page-full.png" width="500" alt="image for the landing page">
 
     </details>
 
-  - ### Navbar and Footer
+  - ### Navbar
     The purpose of the navigation bar and footer is to assist users in navigating the website smoothly and efficiently. The footer also provides links to relevant social media sites, which open in new tabs to ensure a seamless browsing experience.
+
+     - The nav bar is located at the top of the page.
+     - Within the nav bar there is the logo of Chef-Shop which navigates to the landing page on a click.
+     - The nav bar also contains three links on the right hand side:
+        * <strong>HOME:</strong> After clicking on it, the user will be redirected to the Home page. From there, they will be able to browse through several sections including 'About Us', 'Why Hire Us', and the services and policies offered by Chefs-Shop. The page also consists of a footer that contains links to the company's social media pages.
+        * <strong>GALLERY:</strong> The gallery is where you can find an assortment of pictures showcasing different chefs in action in the kitchen, using a variety of cooking equipment and preparing a wide range of delicious meals.
+        * <strong>CONTACT US:</strong> This leads the user to the Contact Us page, where they can book a chef service, request additional services, or receive a callback for further information.
+
+    - The Home page, Gallery page and the Contact Us page links have an animated mouse hover effect.
+  
+    - The navigation is well-organized and easy to understand, making it simple for the user to navigate through the website:
+
+    <img src="assets/image/nav-bar.png" width="800" alt="the navbar">
+
 
   - ### Gallery page
     The Gallery page comprises a header, different images in the body, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
