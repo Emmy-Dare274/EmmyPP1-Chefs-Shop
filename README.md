@@ -23,7 +23,7 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
  - [User stories](#user-stories)
  - [Design](#design)
 
-[Typography and color scheme](#typography-and-color-scheme)
+[Typography](#typography)
 - [Background](#background)
 
 
@@ -91,15 +91,36 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
  Theme colors were selected from Mycolor Space palettes (see credits) and enhanced with Red-Green-Blue to stimulate creativity.
 
+ #### Color Scheme
+  -  The website predominantly uses the colour Tan (#D9B799) to maintain a simple and uniform           appearance. The Tan colour signifies high quality and helps the users to comfortably read the information presented on the screen. A deep Purple hue was overlaid onto the pages' Tan background, representing royalty and excellence.
+  Also, the website uses the color Bright Gray on its body, which creates a mild and coherent, user-friendly look.
 
-## Typography and color scheme
+  - The logo, cover text overlay, responsive buttons, and social media icons all use a Chinese black color. This color was chosen for its attractive and soothing qualities, which provide a comfortable reading experience for users. These design choices ensure that users can easily navigate through the content with ease.
 
-- ### Background
-  I added a background color and background image to the webpage to create a 3D effect and to make it appear as though the background is touchable around the heading area. As users will be searching for content such as pictures to showcase culinary events at first glance, I opted for a background that is visually appealing and gives the right impression.
+## Typography
 
-  For consistency, the sticky headings and fixed footer use the same background color as the rest of the page, with a transparent top color for subtle content viewing
+- #### Background
+  I added a background image to the webpage to create a 3D effect and to make it appear as though the background is touchable around the heading area. As users will be searching for content such as pictures to showcase culinary events at first glance, I opted for a background that is visually appealing and gives the right impression.
 
-<!-- Will add the section later when I've written some code for the web -->
+  For consistency, the sticky headings and fixed footer use the same background color as the rest of the page, with a transparent top color for subtle content viewing.
+
+- #### Fonts
+  The fonts Roboto and Lato were mainly used for the body text on small, medium-sized, and large screens. This was because these fonts gave the impression of attractiveness and readability. For accessibility reasons, I chose the more readable Lato font over other cursive fonts. Sans-Serif fonts were chosen as fallback fonts.
+  This combination not only creates a clean look but also adds an artistic touch that elevates the overall aesthetic.
+
+  <img src="assets/image/Roboto-font.png" width="400" alt="image of Roboto font">
+
+  - Roboto Google fonts were used for the main logo and headings to be visually appealing while also   maintaining accessibility.
+
+  <img src="assets/image/Lato-Font.png" width="400" alt="image of Lato font">
+  
+  - I opted to use the Lato font as the main font of the website due to its excellent accessibility and readability features.
+
+  
+
+
+
+
 
 
 ## Features
