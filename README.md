@@ -136,6 +136,10 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
     <img src="assets/image/nav-bar.png" width="800" alt="the navbar">
 
+    - The website's navigation bar is designed to be responsive on smaller screens, such as mobile devices. On these smaller screens, a burger icon menu is displayed on the right side of the navbar. When the user clicks on this icon, a dropdown menu appears with links to the Home, Gallery, and Contact Us pages. This ensures that users can easily navigate the website, regardless of the device they are using.
+
+    <img src="assets/image/burger-icon-mobile.png" width="600" alt="the burger icon on mobile screens">
+
 
   - ### Gallery page
     The Gallery page comprises a header, different images in the body, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
