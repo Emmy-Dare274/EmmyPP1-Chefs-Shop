@@ -99,9 +99,6 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   For consistency, the sticky headings and fixed footer use the same background color as the rest of the page, with a transparent top color for subtle content viewing
 
-- ### Pictures
-  1. #### Homepage
-
 <!-- Will add the section later when I've written some code for the web -->
 
 
@@ -138,24 +135,42 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
     - The website's navigation bar is designed to be responsive on smaller screens, such as mobile devices. On these smaller screens, a burger icon menu is displayed on the right side of the navbar. When the user clicks on this icon, a dropdown menu appears with links to the Home, Gallery, and Contact Us pages. This ensures that users can easily navigate the website, regardless of the device they are using.
 
-    <img src="assets/image/burger-icon-mobile.png" width="600" alt="the burger icon on mobile screens">
+      <img src="assets/image/burger-icon-mobile.png" width="600" alt="the burger icon on mobile screens">
+
+  - ### Home page
+      <details>
+     <summary>Image of Home page </summary>
+      <img src="assets/image/home-page.png" width="800" alt="Home page image">
+     </details>
+     When designing the homepage, my goal was to immediately capture users' attention and convey the purpose of the website. To achieve this, I selected an image cover featuring a chef's hand preparing a meal on display. I chose a photo that clearly illustrates the page's purpose upon visiting it.
 
 
   - ### Gallery page
+    <details>
+    <summary>Image of Gallery page </summary> 
+    <img src="assets/image/gallery-page-full.png" width="800" alt="Gallery page image">
+    </details>
     The Gallery page comprises a header, different images in the body, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
 
-    <details>
-    <summary>Image of the Gallery page </summary> <!-- Add Gallery page image -->
-
-    </details>
+    
 
   - ### Contact Us page
-    The Contact Us page comprises a header, along with sections for Name, Last name, Email, and Comment to provide more details on the requested services, followed by a footer. The primary objective of this page is to enable users to send a message to request services and also to locate the physical address of the site on Google Maps.
-
      <details>
-    <summary>Image of the Contact Us page </summary> <!-- Add Contact Us page image -->
+     <summary>Image of the Contact Us page </summary> 
+     <img src="assets/image/contact-page-full.png" width="800" alt="Contact us page image">
+      </details>
+      The Contact Us page comprises a header, along with form sections for First Name, Last name, Email, and Comment to provide more details on the requested services, a message section to find the company's location on a map, followed by a google map and a footer. The primary objective of this page is to enable users to send a message to book a chef or request services and also to locate the physical address of the site on Google Maps.
+  
+  - ### Response page
 
-    </details>
+    <details>
+     <summary>Image of Response page </summary> 
+     <img src="assets/image/short-response.png" width="800" alt="response page image">
+      </details>
+    Once the user has filled in all the required fields on the Contact Us page and clicked the <em>Send</em> button, they are immediately directed to the response page. This page contains a short message expressing gratitude, followed by a notification that they will be contacted soon after their information has been received.
+    
+    The response page then automatically redirects the user to the homepage after ten seconds.
+
 
   - ### Responsive devices
     The website has been designed to be responsive and easily accessible on any device. For instance, when viewed on a phone screen, the navigation bar is replaced by a burger icon button, making it easier to navigate. Additionally, the text in some sections has been modified to fit the screen size, ensuring that users get complete information regardless of the device they are using. This approach allows laptop and desktop users to access detailed information while phone users can focus on the main information.
