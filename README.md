@@ -263,3 +263,16 @@ By carefully considering the needs of our users, I crafted a website that boasts
     - #### HTML
       - ##### Home page
       - The official W3C validator tool did not detect any errors or warnings during the validation process.
+
+      - [W3C Markup Validation Result |Home page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Femmy-dare274.github.io%2FEmmyPP1-Chefs-Shop%2Findex.html) | Home page validated without error.
+
+       <details>
+
+         <summary>Home page result </summary> 
+         <img src="assets/image/valida-home.png" width="600" alt="home page result">
+
+       </details>
+
+      - [Tiny](https://tinypng.com/) | was used to optimise images for website.
+
+      - [Tiny](https://tinypng.com/) | was used to optimise images for website.
