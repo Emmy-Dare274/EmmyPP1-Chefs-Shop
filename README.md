@@ -314,4 +314,24 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
         </details>
 
+## LightHouse report
+
+  - I have used Lighthouse in DevTools to run and analyze the functioning of the website and carry out an overall audit of the website. The results displayed for each page of the site indicate that the website is performing well, accessible, and the colors and selected fonts are readable and conventional.
+
+  - ### Home page score
+
+    <img src="assets/image/home-lighthouse.png" width="600" alt="lighthouse home image score">
+
+
+
+  - ### Gallery page score
+
+    <img src="assets/image/gallery-lighthouse.png" width="600" alt="lighthouse gallery image score">
+
+
+  - ### Contact Us page score
+
+    <img src="assets/image/contactus-lighthouse.png" width="600" alt="lighthouse contactus image score">
+
+
 
