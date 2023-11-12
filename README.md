@@ -394,3 +394,14 @@ By carefully considering the needs of our users, I crafted a website that boasts
     - Type git clone (if it's VS Code, press cmd+shift+p for shortcut then click the URL) and then paste the URL you copied.
     - Press Enter. Your local clone will be created.
 
+
+## Fixed Bugs
+
+  - When I first deployed my project to GitHub pages for its live view on the web, I noticed that the cover image and video were not being displayed. I spent some time trying to figure out what went wrong. I inspected all of my code to see if there was a syntax error. In the end, I was able to solve the problem by realizing that the file path was the cause of the image not being displayed. I was using an absolute file path when it should have been a relative file path. After changing the file path to a relative file path, the problem was fixed.
+
+  - While working on the project, I faced an issue with the Favicon icon not appearing on the Tab. I    spent a considerable amount of time trying to fix it. Initially, I almost deleted my code and started all over again. I checked for bugs and inspected every link tag added at the header section. I eventually realized that the image was too big and the file path was unconventional. After optimizing the image and adjusting the file path and size, the Favicon appeared on the Tab.
+
+  - During the validation processes, other bugs were also fixed. I learned through the W3C CSS official site that Font-weight in CSS does not require a % (percentage), and padding-top, right, left, or bottom should not have more than one value. This led me to go back to my code and make the necessary adjustments to fix the styling errors and pass the validation testing stage. After fixing the bugs, I received a congratulatory message confirming that my codes were valid and accepted.
+
+
+
