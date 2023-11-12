@@ -256,6 +256,10 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - [Google Map API](https://www.googlemapsiframegenerator.com/) | was used to generate map codes for website.
 
+  - [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) | used to correct the grammar
+
+
+
 ## Testing
 
   - ### Code Validation and Testing
@@ -404,4 +408,50 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - During the validation processes, other bugs were also fixed. I learned through the W3C CSS official site that Font-weight in CSS does not require a % (percentage), and padding-top, right, left, or bottom should not have more than one value. This led me to go back to my code and make the necessary adjustments to fix the styling errors and pass the validation testing stage. After fixing the bugs, I received a congratulatory message confirming that my codes were valid and accepted.
 
 
+## Credits
 
+  ### Inspiration Credits
+
+  - #### Theme Colors & Webpage
+
+    The Chefs-Shop Home page was inspired by [EtchPad](https://andodaryl.github.io/EtchPad/)
+
+    The Gallery page and the Contact page section were inspired by a walkthrough project called [Love Running](https://emmy-dare274.github.io/Emmy-LoveRunning-project/)
+
+    Some of the content of the webpage were inspired by [Chefspencil](https://www.chefspencil.com/the-best-20-cooking-websites/)
+
+  - #### README Inspiration
+
+    This is my first 'README' file, I have taken inspiration from the files of many other students who were generous enough to share their initial projects. In particular, I found the listed 'README' to be very helpful.
+
+    [Kera Cudmore](https://github.com/kera-cudmore/readme-examples#links)
+
+    [Laure Piechaczyk](https://github.com/LaurePiechaczyk/project1_code_institute_Laure_Piechaczyk/blob/main/README.md#)
+
+    [Code Institute](https://github.com/Code-Institute-Org/ci-full-template)
+
+
+  - #### Images Credits
+
+    Both the Home page cover images and the Gallery images were taken from [Pexels](https://www.pexels.com/) and [Rawpixel](https://www.rawpixel.com/) while others were taken from [Unsplash](https://unsplash.com/).
+
+
+## Conclusion
+
+  Throughout this project, my understanding of HTML and CSS has been deepened and consolidated. I believe that the project reflects my strong foundations in these languages. 
+
+  One key lesson I learned from this project is that it's essential to have a clear and comprehensive overview of the project before beginning to code, as well as to maintain this overview throughout the project's development. I hope to apply this insight to the start of my next project and achieve a smoother progression. 
+
+  Overall, I truly enjoyed the process of coding this project, which aimed to integrate the understanding of HTML and CSS. My primary goal was to learn, and I believe that I have gained a great deal of knowledge and experience as a result.
+
+
+
+## Acknowledgements
+
+  - I would like to express my gratitude to my mentor, [Rohit Sharma](https://github.com/rohit0286), for providing me with the direction to initiate the project, for guiding me throughout the project, for suggesting new features to implement, and for giving me feedback on my work. 
+
+  - In addition, I am thankful to the supportive Slack community and friends for clarifying certain concepts, sharing tips and links, and always being ready to assist me with coding-related issues. Finally, I'd like to express my appreciation to [Code Institutes](https://codeinstitute.net/) for providing the necessary tools and guide to accomplish this project.
+
+  - I would like to extend my appreciation to wonderful [Dave Gray](https://www.freecodecamp.org/news/the-css-flexbox-handbook/) from FreeCodeCamp for his pinpoint YouTube Tutorial on CSS Full Guide and JavaScript.
+
+  - Finally, I am grateful to God for providing me with the strength and the right mindset to complete this project.
