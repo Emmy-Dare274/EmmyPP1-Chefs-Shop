@@ -334,4 +334,63 @@ By carefully considering the needs of our users, I crafted a website that boasts
     <img src="assets/image/contactus-lighthouse.png" width="600" alt="lighthouse contactus image score">
 
 
+## Manual testing
+
+| Feature | Action | Outcome | Tested | Passed | Comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | link working as intended |
+| Gallery | Click on the "Gallery" link | The user is directed to the gallery page | Yes | Yes | link working as intended |
+| Contact Us | Click on the "Contact Us" link | The user is directed to the 'Contact Us page | Yes | Yes | link working as intended |
+| Footer | | | | | |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | link working as intended |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | link working as intended |
+| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | link working as intended |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | link working as intended |
+| Tik Tok icon in the footer | Click on the Tik Tok icon | The user is redirected to the Tik Tok page | Yes | Yes | link working as intended |
+| LinkedIn icon in the footer | Click on the LinkedIn icon | The user is redirected to the LinkedIn page | Yes | Yes | link working as intended |
+| Contact page | | | | | |
+| First name input | Insert the first name | The first name is entered | Yes | Yes | If a user doesn't enter the first name, an error message appears |
+| Last name input | Insert the last name | The last name is entered | Yes | Yes | If a user doesn't enter the last name, an error message appears |
+| Email input | Insert an email | Email is entered | Yes | Yes | If a user doesn't enter the email, an error message appears. If a user enters an invalid email format, a message appears directing them on the allowed format. |
+| "Send" button | Click on the "Send" button | The user is redirected to a response page | Yes | Yes | link working as intended |
+| Response page | | | | | |
+| Response message | The user will be automatically redirected to the main page in 10 seconds. | The user is redirected to the Home page | Yes | Yes | link working as intended |
+
+---
+
+## Test on browsers
+
+  The website was tested on computers using the following browsers:
+  - [Google Chrome](https://www.google.com/chrome/)
+  - [Microsoft edge](https://www.microsoft.com/en-us/edge?form=MA13L0)
+  - [Safari](https://www.apple.com/safari/)
+
+## Test on devices
+[Chrome DevTools](https://developer.chrome.com/docs/devtools/) was used to see how the site looks like on various devices like phones and tablets. Additionally, after deployment the website was tested on various mobile phones: iphone12, iphone SE, Samsung Galaxy Fold.
+
+
+## Deployment
+
+  ### Github Pages
+
+  The website has been deployed to GitHub. The project was safely stored in Github.   
+
+  - These are the steps taken to deploy this project. In the GitHub repository:
+    - Go to Settings Tab
+    - Then the GitHub pages
+    - Select Branch main
+    - Save
+    - Visit the website by following the [link](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/):
+  
+
+  ### Making a Local Clone
+
+  - Log in to GitHub and find the GitHub Repository.
+    - Click the Code dropdown menu.
+    - You can either download the Zip file, unpackage locally and open an IDE or clone the repository using HTTPS, under "clone with https", copy the link.
+    - Open Git Bash
+    - Change the current working directory to the location where you want the cloned directore to be made
+    - Type git clone (if it's VS Code, press cmd+shift+p for shortcut then click the URL) and then paste the URL you copied.
+    - Press Enter. Your local clone will be created.
 
