@@ -1,11 +1,13 @@
 <h1 align="center">Project One for Code Institute | Chefs-Shop <br>- HTML & CSS</h1>
+<!-- The website link here -->
 
-[Click here to view live page.](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/) 
-<!-- add link to the website picture here -->
+[Click here to view live page.](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/)
 
-<img src="assets/image/am-I-responsive.png" width="860" alt="image-from-Am-I-responsive">
+<!-- The website picture here -->
 
-Chefs-Shop is a website that I built as part of my training to become a Full Stack Web Developer with [Code Institute](https://codeinstitute.net/). This project allowed me to showcase my skills in both HTML and CSS.
+<img src="readme.docs/am-I-responsive.png" width="860" alt="image-from-Am-I-responsive">
+
+Chefs-Shop is a website that I built as part of my training to become a Full Stack Software Developer with [Code Institute](https://codeinstitute.net/). This project allowed me to showcase my skills in both HTML and CSS.
 
 To do this and simplify culinary needs, I created a one-stop online shop for expert chefs where users are connected with expert chefs who are ready to meet all of their culinary needs.
 
@@ -25,6 +27,7 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
 
 [Typography](#typography)
 - [Background](#background)
+- [Fonts](#fonts)
 
 
 [Features](#features)
@@ -108,11 +111,11 @@ By carefully considering the needs of our users, I crafted a website that boasts
   The fonts Roboto and Lato were mainly used for the body text on small, medium-sized, and large screens. This was because these fonts gave the impression of attractiveness and readability. For accessibility reasons, I chose the more readable Lato font over other cursive fonts. Sans-Serif fonts were chosen as fallback fonts.
   This combination not only creates a clean look but also adds an artistic touch that elevates the overall aesthetic.
 
-  <img src="assets/image/Roboto-font.png" width="400" alt="image of Roboto font">
+  <img src="readme.docs/Roboto-font.png" width="400" alt="image of Roboto font">
 
   - Roboto Google fonts were used for the main logo and headings to be visually appealing while also   maintaining accessibility.
 
-  <img src="assets/image/Lato-Font.png" width="400" alt="image of Lato font">
+  <img src="readme.docs/Lato-Font.png" width="400" alt="image of Lato font">
 
   - I opted to use the Lato font as the main font of the website due to its excellent accessibility and readability features.
 
@@ -128,7 +131,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
     <details>
     <summary>Image of the Landing page </summary>
-    <img src="assets/image/landing-page-full.png" width="500" alt="image for the landing page">
+    <img src="readme.docs/landing-page-full.png" width="500" alt="image for the landing page">
 
     </details>
 
@@ -146,16 +149,16 @@ By carefully considering the needs of our users, I crafted a website that boasts
   
     - The navigation is well-organized and easy to understand, making it simple for the user to navigate through the website:
 
-    <img src="assets/image/nav-bar.png" width="800" alt="the navbar">
+    <img src="readme.docs/nav-bar.png" width="800" alt="the navbar image">
 
     - The website's navigation bar is designed to be responsive on smaller screens, such as mobile devices. On these smaller screens, a burger icon menu is displayed on the right side of the navbar. When the user clicks on this icon, a dropdown menu appears with links to the Home, Gallery, and Contact Us pages. This ensures that users can easily navigate the website, regardless of the device they are using.
 
-      <img src="assets/image/burger-icon-mobile.png" width="600" alt="the burger icon on mobile screens">
+      <img src="readme.docs/burger-icon-mobile.png" width="600" alt="the burger icon on mobile screens">
 
   - ### Home page
       <details>
      <summary>Image of Home page </summary>
-      <img src="assets/image/home-page.png" width="800" alt="Home page image">
+      <img src="readme.docs/home-page.png" width="800" alt="Home page image">
      </details>
      When designing the homepage, my goal was to immediately capture users' attention and convey the purpose of the website. To achieve this, I selected an image cover featuring a chef's hand preparing a meal on display. I chose a photo that clearly illustrates the page's purpose upon visiting it.
 
@@ -163,7 +166,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - ### Gallery page
     <details>
     <summary>Image of Gallery page </summary> 
-    <img src="assets/image/gallery-page-full.png" width="800" alt="Gallery page image">
+    <img src="readme.docs/gallery-page-full.png" width="800" alt="Gallery page image">
     </details>
     The Gallery page comprises a header, different images in the body, and a footer. The primary aim of this page is to showcase the creativity of Chefs-Shop and its versatility with different types of food to attract and entice users with mouthwatering food images and Chefs on display.
 
@@ -172,7 +175,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
   - ### Contact Us page
      <details>
      <summary>Image of the Contact Us page </summary> 
-     <img src="assets/image/contact-page-full.png" width="800" alt="Contact us page image">
+     <img src="readme.docs/contact-page-full.png" width="800" alt="Contact us page image">
       </details>
       The Contact Us page comprises a header, along with form sections for First Name, Last name, Email, and Comment to provide more details on the requested services, a message section to find the company's location on a map, followed by a google map and a footer. The primary objective of this page is to enable users to send a message to book a chef or request services and also to locate the physical address of the site on Google Maps.
   
@@ -180,14 +183,14 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
     <details>
      <summary>Image of Response page </summary> 
-     <img src="assets/image/short-response.png" width="800" alt="response page image">
+     <img src="readme.docs/short-response.png" width="800" alt="response page image">
       </details>
     Once the user has filled in all the required fields on the Contact Us page and clicked the <em>Send</em> button, they are immediately directed to the response page. This page contains a short message expressing gratitude, followed by a notification that they will be contacted soon after their information has been received.
     
     The response page then automatically redirects the user to the homepage after ten seconds.
 
   - ### Footer
-    <img src="assets/image/footer-section.png" width="700" alt="footer section image">
+    <img src="readme.docs/footer-section.png" width="700" alt="footer section image">
 
     The footer section contains icons of the social media pages of Chefs-Shop and a copyright information. The users are directed to a new window when clicked on the icons.
 
@@ -273,7 +276,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
        <details>
 
          <summary>Home page result </summary> 
-         <img src="assets/image/valida-home.png" width="600" alt="home page result">
+         <img src="readme.docs/valida-home.png" width="600" alt="home page result">
 
        </details>
 
@@ -287,7 +290,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
       <details>
 
          <summary>Gallery page result </summary> 
-         <img src="assets/image/validat-gallery.png" width="600" alt="gallery page result">
+         <img src="readme.docs/validat-gallery.png" width="600" alt="gallery page result">
 
        </details>
 
@@ -301,7 +304,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
         <details>
 
          <summary>Contact Us page result </summary> 
-         <img src="assets/image/ valida-contact.png" width="600" alt="contact us page result">
+         <img src="readme.docs/ valida-contact.png" width="600" alt="contact us page result">
 
        </details>
 
@@ -314,7 +317,7 @@ By carefully considering the needs of our users, I crafted a website that boasts
         <details>
 
          <summary>CSS result </summary> 
-         <img src="assets/image/css-validate.png" width="600" alt="CSS result">
+         <img src="readme.docs/css-validate.png" width="600" alt="CSS result">
 
         </details>
 
@@ -324,18 +327,18 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - ### Home page score
 
-    <img src="assets/image/home-lighthouse.png" width="600" alt="lighthouse home image score">
+    <img src="readme.docs/home-lighthouse.png" width="600" alt="lighthouse home image score">
 
 
 
   - ### Gallery page score
 
-    <img src="assets/image/gallery-lighthouse.png" width="600" alt="lighthouse gallery image score">
+    <img src="readme.docs/gallery-lighthouse.png" width="600" alt="lighthouse gallery image score">
 
 
   - ### Contact Us page score
 
-    <img src="assets/image/contactus-lighthouse.png" width="600" alt="lighthouse contactus image score">
+    <img src="readme.docs/contactus-lighthouse.png" width="600" alt="lighthouse contactus image score">
 
 
 ## Manual testing
