@@ -33,8 +33,29 @@ To do this and simplify culinary needs, I created a one-stop online shop for exp
 [Features](#features)
 
  - [Composition of the Website](#composition-of-the-website)
- - [Responsive devices](#responsive-devices)
+ - [Navbar](#navbar)
  - [Animations](#animations)
+ - [Footer](#footer)
+
+[Future feature](#future-feature)
+
+[Technology used](#technology-used)
+
+[Tools](#tools)
+
+[Testing](#testing)
+ - [Lighthouse](#lighthouse-report)
+ - [Manual testing](#manual-testing)
+ - [Test on browsers](#test-on-browsers)
+ 
+[Deployment](#deployment)
+ 
+[Fixed Bugs](#fixed-bugs)
+
+[Credits](#credits)
+ - [Conclusion](#conclusion)
+
+[Acknowledgements](#acknowledgements)
 
 </details>
 
@@ -417,11 +438,11 @@ By carefully considering the needs of our users, I crafted a website that boasts
 
   - #### Theme Colors & Webpage
 
-    The Chefs-Shop Home page was inspired by [EtchPad](https://andodaryl.github.io/EtchPad/)
+    The Chefs-Shop Home page was inspired by [EtchPad](https://andodaryl.github.io/EtchPad/).
 
-    The Gallery page and the Contact page section were inspired by a walkthrough project called [Love Running](https://emmy-dare274.github.io/Emmy-LoveRunning-project/)
+    The Home page structures, Gallery page and the Contact page section were inspired by a walkthrough project called [Love Running](https://emmy-dare274.github.io/Emmy-LoveRunning-project/) and my favourite [Coders Coffee](https://emmy-dare274.github.io/coders-coffee/).
 
-    Some of the content of the webpage were inspired by [Chefspencil](https://www.chefspencil.com/the-best-20-cooking-websites/)
+    Some of the content of the webpage were inspired by [Chefspencil](https://www.chefspencil.com/the-best-20-cooking-websites/).
 
   - #### README Inspiration
 
